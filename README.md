@@ -57,5 +57,3 @@ The project is designed for learning purposes and does not use JavaScript or ext
    git clone https://github.com/your-username/sushi-kitchen.git
 
 
-## 📁 Project Structure
-
